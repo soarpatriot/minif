@@ -1,0 +1,24 @@
+{
+  "name": "f",
+  "version": "0.1.0",
+  "description": "my functional program library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soarpatriot/f.git"
+  },
+  "keywords": [
+    "functional",
+    "program",
+    "library"
+  ],
+  "author": "Soar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soarpatriot/f/issues"
+  },
+  "homepage": "https://github.com/soarpatriot/f#readme"
+}
