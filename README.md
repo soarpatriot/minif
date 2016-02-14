@@ -1,2 +1,2 @@
-# f
-javascript functional program
+# minif
+a small javascript functional program framework

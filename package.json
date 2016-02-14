@@ -1,5 +1,5 @@
 {
-  "name": "f",
+  "name": "minif",
   "version": "0.1.0",
   "description": "my functional program library",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soarpatriot/f.git"
+    "url": "git+https://github.com/soarpatriot/minif.git"
   },
   "keywords": [
     "functional",
@@ -18,7 +18,7 @@
   "author": "Soar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/soarpatriot/f/issues"
+    "url": "https://github.com/soarpatriot/minif/issues"
   },
-  "homepage": "https://github.com/soarpatriot/f#readme"
+  "homepage": "https://github.com/soarpatriot/minif#readme"
 }
